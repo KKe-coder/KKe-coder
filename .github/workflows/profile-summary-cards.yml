@@ -16,4 +16,4 @@ jobs:
         env:
           '50a93c942725e22ee6ae08a2b01592ed3bacf6f3': ${{ secrets.GITHUB_TOKEN }}
         with:
-          'KKe-coder': ${{ github.repository_owner }}
+          ['KKe-coder']: ${{ github.repository_owner }}
