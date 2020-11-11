@@ -1,3 +1,3 @@
 Hello!!
 
-![](https://komarev.com/ghpvc/?KKe-coder=[your username]&color=green)
+![](https://komarev.com/ghpvc/?username=KKe-coder&color=green)
