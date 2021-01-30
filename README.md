@@ -1,4 +1,4 @@
-:star: Hello!Everyone! :star:
+:star: Hello!Everyone :star:
 ![](https://komarev.com/ghpvc/?username=KKe-coder&color=red&style=plastic&label=Prof+VIEWS)
 <br>
 [![](https://raw.githubusercontent.com/KKe-coder/KKe-coder/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
