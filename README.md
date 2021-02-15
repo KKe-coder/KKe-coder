@@ -8,11 +8,11 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="left" src="https://komarev.com/ghpvc/?username=KKe-coder&color=red&style=plastic&label=Viewed Count" />
   </a>
+  <span align="left">:cat2:</span>
   <br>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="https://raw.githubusercontent.com/KKe-coder/KKe-coder/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
   </a>
-  <span align="bottom">:cat2:</span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KKe-coder&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
