@@ -12,7 +12,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="https://raw.githubusercontent.com/KKe-coder/KKe-coder/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
   </a>
-  <span align="bottom">:cat2:            </span>
+  <span align="bottom">:cat2:</span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KKe-coder&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
