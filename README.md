@@ -1,6 +1,6 @@
 # _Hello! Welcome to KKe-coder's Page of Github!_
 
-## _Activity_
+## :runner:_Activity_ 
 <div>
   <a href="http://qiita.com/KKe-coder">
     <img align="left" src="https://qiita-badge.apiapi.app/s/KKe-coder/posts.svg" />
@@ -19,7 +19,7 @@
   </a>
 </div>
 
-## _Practicing Now..._
+## :pencil2:_Practicing Now_ 
   <img align="left" src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
   <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
   <img align="left" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat">
