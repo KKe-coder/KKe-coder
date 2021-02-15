@@ -8,14 +8,15 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="left" src="https://komarev.com/ghpvc/?username=KKe-coder&color=red&style=plastic&label=Viewed Count" />
   </a>
+  <br>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="left" src="https://raw.githubusercontent.com/KKe-coder/KKe-coder/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+    <img align="center" src="https://raw.githubusercontent.com/KKe-coder/KKe-coder/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=KKe-coder&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
