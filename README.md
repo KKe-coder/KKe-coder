@@ -18,3 +18,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
   </a>
 </div>
+
+## _Practicing Now..._
+  <img align="left" src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+  <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img align="left" src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat">
+  <img align="left" src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
+  <img align="left" src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+  <img align="left" src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
+  <img align="left" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+  
