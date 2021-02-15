@@ -1,7 +1,7 @@
 # _Hello! Welcome to KKe-coder's Page of Github!_
 
 ## _Activity_
-<p>
+<div>
   <a href="http://qiita.com/KKe-coder">
     <img align="left" src="https://qiita-badge.apiapi.app/s/KKe-coder/posts.svg" />
   </a>
@@ -18,6 +18,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=KKe-coder&layout=compact&theme=tokyonight" />
   </a>
-</p>
+</div>
 
 ## _Practicing_
