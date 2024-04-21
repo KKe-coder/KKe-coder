@@ -2,14 +2,6 @@
 
 ## :runner:_Activity_ 
 <div>
-  <!--
-  <a href="http://qiita.com/KKe-coder">
-    <img align="left" src="https://qiita-badge.apiapi.app/s/KKe-coder/posts.svg" />
-  </a>
-  -->
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img align="left" src="https://komarev.com/ghpvc/?username=KKe-coder&color=red&style=plastic&label=Viewed Count" />
-  </a>
   <span align="left">:cat2:…</span>
   <br>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
